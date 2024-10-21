@@ -1,0 +1,3 @@
+// The goal for this project was to build a simple chatbot interface with as little assistance from external libraries as possible.
+
+// I only used one library to retrieve the current moon phase so the user could ask for that moon phase from South Florida.
